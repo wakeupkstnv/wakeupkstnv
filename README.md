@@ -25,3 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakeupkstnv&show_icons=true&locale=en&layout=compact" alt="wakeupkstnv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wakeupkstnv&show_icons=true&locale=en" alt="wakeupkstnv" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
