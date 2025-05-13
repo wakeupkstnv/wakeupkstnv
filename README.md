@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wakeupkstnv" alt="wakeupkstnv" /></a> </p>
 
-- 🔭 I’m currently working on **OncoZeroAi**
-
-- 🌱 I’m currently learning **FastApi, NextJs, Golang**
-
-- 💬 Ask me about **Python, ExpressJs**
-
 - 📫 How to reach me **t_kustanayev@kbtu.kz**
 
 <h3 align="left">Connect with me:</h3>
